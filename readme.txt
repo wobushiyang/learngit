@@ -1,4 +1,2 @@
 
 learn git
-
-update
